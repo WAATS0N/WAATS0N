@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various project and Games<br>🌱 I’m currently learning LLMs<br>💬 Ask me about<br>⚡ Fun fact "I'm a Gamer"
+🔭 I’m currently working on various project and Games<br>🌱 I’m currently learning LLMs<br>💬 Ask me about Nothing LOL<br>⚡ Fun fact "I'm a Gamer"
 
 
 ## 🌐 Socials:
