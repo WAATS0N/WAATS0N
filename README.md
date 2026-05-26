@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various project and Games<br>🌱 I’m currently learning LLMs<br>💬 Ask me about Nothing LOL<br>⚡ Fun fact "I'm a Gamer"
+🔭 I’m currently working on AI-powered applications, full-stack projects, and game-related experiments <br>🌱 I’m currently learning LLMs, Multimodal AI, and RAG Pipelines  <br>💬 Ask me about Python, AI/ML, NLP, REST APIs  <br>⚡ Fun fact: I’m a gamer who loves building AI projects and experimenting with new tech
 
 
 ## 🌐 Socials:
